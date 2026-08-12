@@ -133,7 +133,13 @@ npm test
 
 ## Données
 
-Les fichiers CSV et GeoJSON proviennent des données ouvertes de la Ville de Montréal. Les cartes utilisent les tuiles OpenStreetMap. Les données conservent leurs conditions d'utilisation respectives; la licence MIT du dépôt couvre le code source.
+Le dépôt contient des échantillons représentatifs afin de rester léger et simple à cloner. Les exports complets sont disponibles dans le portail de données ouvertes de la Ville de Montréal :
+
+- [Compteurs cyclistes permanents](https://donnees.montreal.ca/fr/dataset/cyclistes)
+- [Réseau cyclable](https://donnees.montreal.ca/dataset/pistes-cyclables)
+- [Fontaines à boire extérieures](https://donnees.montreal.ca/dataset/fontaines-a-boire-eau-exterieures)
+
+Consultez [`backend/data/README.md`](backend/data/README.md) pour le contenu exact des échantillons. Les cartes utilisent les tuiles OpenStreetMap. Les données conservent leurs conditions d'utilisation respectives; la licence MIT du dépôt couvre le code source.
 
 ## Auteur
 
